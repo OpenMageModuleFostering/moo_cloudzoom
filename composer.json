@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Moo_CloudZoom",
+    "name": "OpenMageModuleFostering\/Moo_CloudZoom",
     "type": "magento-module",
     "license": "New-BSD-License",
     "homepage": "",
     "description": "This extension replaces the image gallery with the cloudZoom widget.",
     "authors": [
-    {
-        "name": "mohammed",
-        "email": "mohamed.alsharaf@gmail.com"
-    }
-],
+        {
+            "name": "mohammed",
+            "email": "mohamed.alsharaf@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
